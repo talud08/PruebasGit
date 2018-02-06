@@ -1,8 +1,10 @@
 <html>
-    <head>
-        <title>Hola mundo</title>
-    </head>
-    <body>
-        <?php echo '<p>Hola Mundo</p>'; ?>
-    </body>
+        <head>
+            <title>Hola Mundo</title>
+        </head>
+        <body>
+            <?php echo '<p>Hola Mundo</p>'; ?>
+            <br />
+            Hola Universo.
+        </body>
 </html>
